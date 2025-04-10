@@ -91,4 +91,4 @@ class ProzentVerteiler:
 if __name__ == "__main__":
     root = tk.Tk()
     app = ProzentVerteiler(root)
-    root.mainloop()
+    root.mainloop() 
